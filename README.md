@@ -17,7 +17,7 @@ To make sure you are comfortable with the environment we will be using, please r
 
 Once you have completed these tasks, make a pull request to this repository with a Markdown file in this format:
 
-`firstname-lastname.md`
+`srashti-kaurav.md`
 
 `I've finished reading through the pre-req docs and ran at least one example AI/ML app on my laptop!`
 
